@@ -24,6 +24,9 @@ It takes care to merge both the default options (`js`) and the custom options (`
 - **Objects merger**: Merge objects. Priority to the last object. (Erase values if same keys) https://github.com/Vadorequest/javascript-helpers/blob/master/object-merger/object_merge.js
 - **Font-Awesome**: [*Optional*] The script use `font-awesome` plugin (`fa fa-question-circle`) that will add the `question-circle` icon before all tooltips. *If font-awesome is not installed, the icon won't appear*. (*close enough to glyphicon, but better :)*) https://github.com/FortAwesome/Font-Awesome/
 
+# Installation
+1. Import the script. **Must*** be imported after `underscore.js`, `object-merge.js` and `bootstrap`.
+
 # Utilities
 
 - **Namespace**: I didn't use any namespace because the original plugins doesn't. But if you want to, you can. This means that all data attributes will be contained in `data-{namespace_name}` namespace to avoid conflicts.

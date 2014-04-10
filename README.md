@@ -42,7 +42,7 @@ Of course, this helper could not fill entirely your needs, don't hesitate to cus
 
 # Contributing
 
-This script doesn't need to evolve too much, but if the `bootstrap-datepicker` evolves and add new options then we'll need to update this helper too. You're welcome to make a **PR**, I will take a look at it as soon as possible. 
+This script doesn't need to evolve too much, but if the `bootstrap#tooltip` evolves and add new options then we'll need to update this helper too. You're welcome to make a **PR**, I will take a look at it as soon as possible. 
 
 # Roadmap
 
